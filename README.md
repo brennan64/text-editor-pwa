@@ -8,7 +8,7 @@ This application uses a PWA to make a text editor that stores data both online, 
 
 ## Installation Tips
 
-open this link, you can use either online, or click install to run locally. Install will automatically save a shortcut to your desktop.
+Visit this [LINK](https://boiling-savannah-23337.herokuapp.com/ "deployed application"), you can use it online, or click install to run locally. Install will automatically save a shortcut to your desktop.
 
 ## Usage Info
 
